@@ -20,6 +20,6 @@ def Conway(string):
 
 a = "1"
 print(a)
-for i in range(100):
+for i in range(12):
 	a = Conway(a)
 	print(a)
